@@ -1,0 +1,6 @@
+name: skeleton
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+prefix: /opt/homebrew/Caskroom/miniconda/base/envs/skeleton
